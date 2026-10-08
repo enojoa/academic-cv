@@ -31,7 +31,7 @@ fetch('cv-data.json').then(response => response.json()).then(d => {
   if (!d.summary) $('profile').classList.add('hidden');
   $('initials').textContent = (d.name || 'YN').split(/\s+/).slice(0, 2).map(x => x[0]).join('').toUpperCase();
   $('year').textContent = new Date().getFullYear();
-  if (d.email) { $('email-link').href = 'mailto:' + d.email; text($('email-link'), d.email); }
+  if (d.email) { const emails = d.email.split('/').map(x => x.trim()).filter(Boolean); const first = $('email-link'); first.href = 'mailto:' + emails[0]; first.textContent = emails[0]; if (emails[1]) { const second = document.createElement('a'); second.className = 'email'; second.href = 'mailto:' + emails[1]; second.textContent = emails[1]; first.after(document.createElement('br'), second); } }
   else $('contact').classList.add('hidden');
   for (const [label, url] of [['Email', d.email && 'mailto:' + d.email], ['Google Scholar', d.scholar], ['ORCID', d.orcid && 'https://orcid.org/' + d.orcid], ['Website', d.website]]) {
     const a = makeLink(label, url); if (a) $('links').append(a);
