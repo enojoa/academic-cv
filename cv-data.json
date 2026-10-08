@@ -31,5 +31,19 @@
     {"dates":"Dec. 2016","position":"Advisor","organization":"Department of Commerce and Consumer Affairs, Myanmar","detail":"Advised on establishing enforcement regulations for Myanmar’s Competition Law."},
     {"dates":"Nov. 2005 – Mar. 2010","position":"Deputy Director, Competition Policy Division & Conglomerate Division","organization":"Korea Fair Trade Commission (KFTC)","detail":"Played a principal role in amending competition law and modifying regulations on conglomerates; published information on holding companies and large business groups; established a disclosure website for large business groups; Wrote speeches for the Chairperson and Vice-Chairperson; played a leading role in planning KFTC competition policy; reviewed government regulations for anticompetitive effects."}
   ],
-  "appointments": [], "presentations": [], "awards": [], "teaching": [], "service": [], "skills": []
+  "appointments": [], "presentations": [],
+  "awards": [
+    {"year":"2017","title":"The 1st Prize of the Best Knowledge Leader","detail":"Chairman’s Award of the KFTC"},
+    {"year":"2016","title":"The 3rd Prize of the Best Knowledge Leader","detail":"Chairman’s Award of the KFTC"},
+    {"year":"2014","title":"The 2nd Prize of the Best Idea","detail":"Chairman’s Award of the KFTC"},
+    {"year":"Mar. 2010 – Aug. 2012","title":"Korean Government Long-Term Fellowship Program"},
+    {"year":"2010","title":"12 Model Public Official","detail":"Chairman’s Award of the Korea Chamber of Commerce"},
+    {"year":"2009","title":"Excellent Public Official","detail":"Chairman’s Award of Presidential Council on Competitiveness"},
+    {"year":"2007","title":"Excellent Innovative Public Official","detail":"Chairman’s Award of the KFTC"}
+  ],
+  "teaching": [], "service": [], "skills": [],
+  "additional_information": [
+    {"title":"Passed National Government Elite-officer Selection Exam (2003)","detail":"3rd out of 72 successful candidates in economic policy"},
+    {"title":"Language","detail":"Korean (native), English, German"}
+  ]
 }
