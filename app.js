@@ -39,7 +39,7 @@ fetch('cv-data.json').then(response => response.json()).then(d => {
   const lists = [
     ['education', 'education-list'], ['appointments', 'appointments-list'], ['publications', 'publications-list'],
     ['presentations', 'presentations-list'], ['awards', 'awards-list'], ['teaching', 'teaching-list'],
-    ['service', 'service-list'], ['reports', 'reports-list'], ['research_experience', 'research-experience-list'],
+    ['service', 'service-list'], ['additional_information', 'additional-information-list'], ['reports', 'reports-list'], ['research_experience', 'research-experience-list'],
     ['professional_experience', 'professional-experience-list']
   ];
   for (const [key, id] of lists) {
