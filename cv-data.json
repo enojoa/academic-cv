@@ -1,0 +1,36 @@
+{
+  "name": "Your Name",
+  "role": "Ph.D. Student in Public Policy",
+  "institution": "Graduate School of Public Administration, Seoul National University",
+  "location": "Seoul, Republic of Korea",
+  "email": "",
+  "website": "",
+  "scholar": "",
+  "orcid": "",
+  "summary": "",
+  "interests": ["Industrial Policy", "Competition Policy", "Health Policy", "Policy Change", "Political Economy", "Developmental State", "Regulatory Politics", "Legislative Process"],
+  "education": [
+    {"degree":"Ph.D. Student in Public Policy","institution":"Graduate School of Public Administration, Seoul National University","dates":"Mar. 2025 – Present","detail":""},
+    {"degree":"M.A. in Public Policy","institution":"Graduate School of Public Administration, Seoul National University","dates":"Feb. 2025","detail":"Thesis: A Study on the Formation and Determination of Semiconductor Industrial Policy: Focusing on the Impact of Ambiguity and Conflict on the Enactment and Revision of the 2021 Special Act"},
+    {"degree":"Master of Business Law (LL.M.)","institution":"Free University of Berlin, Germany","dates":"Aug. 2011","detail":"Thesis: The Role of Efficiencies in the EC Merger Control"},
+    {"degree":"B.A. in Economics & Political Science (Double Major)","institution":"Seoul National University","dates":"Feb. 2005","detail":""}
+  ],
+  "publications": [
+    {"year":"June 2026","title":"Professional Self-Regulatory Policymaking: The Manifestation of Institutionalized Authority of the Korean Bar Association in the Lawtalk Controversy","venue":"Journal of the Korean Association for Policy Studies"},
+    {"year":"May 2026","title":"Transitions and Changes in Semiconductor Industrial Policy: Integrating Policy Paradigm Change Theory and Institutional Change Typology","venue":"Korean Society and Public Administration"}
+  ],
+  "reports": [
+    {"year":"Nov. 2025","title":"Field Investigation of Technological Innovation in High-Tech Industries (AI, etc.) and Identification of Policy Tasks","venue":"Korea Institute for Advancement of Technology (KIAT)"}
+  ],
+  "research_experience": [
+    {"dates":"Sep. 2011 – Aug. 2012","position":"Visiting Researcher","organization":"Max Planck Institute for Innovation and Competition, Germany","detail":"Researched the concept of dominant undertakings in EU, German, and Korean competition law."}
+  ],
+  "professional_experience": [
+    {"dates":"July 2020 – June 2024","position":"Congressional Chief of Staff","organization":"National Assembly of the Republic of Korea","detail":"Led legislative activities related to economic and industrial sectors."},
+    {"dates":"Jan. 2014 – June 2020","position":"Director, Competition Division, Seoul Office","organization":"Korea Fair Trade Commission (KFTC)","detail":"Investigated more than 80 cases involving abuse of dominance and unfair business practices; imposed corrective orders and fines on companies."},
+    {"position":"Adviser","organization":"Department of Commerce and Consumer Affairs, Myanmar","detail":"Advised on establishing enforcement regulations for Myanmar’s Competition Law."},
+    {"dates":"May 2007 – Mar. 2010","position":"Deputy Director, Conglomerate Division","organization":"Korea Fair Trade Commission (KFTC)","detail":"Played a principal role in amending competition law and modifying regulations on conglomerates; published information on holding companies and large business groups; established a disclosure website for large business groups."},
+    {"dates":"Nov. 2005 – Apr. 2007","position":"Deputy Director, Competition Policy Division","organization":"Korea Fair Trade Commission (KFTC)","detail":"Wrote speeches for the Chairperson and Vice-Chairperson; played a leading role in planning KFTC competition policy; reviewed government regulations for anticompetitive effects."}
+  ],
+  "appointments": [], "presentations": [], "awards": [], "teaching": [], "service": [], "skills": []
+}
